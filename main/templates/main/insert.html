@@ -1,0 +1,13 @@
+{% extends "main/images_list.html" %}
+
+{% block content %}
+
+    {% for obj in object_list %}
+        {{ obj.heading }}<br>
+    {% endfor %}
+    
+    <!-- {% for img in images %}
+        <img src = "{{ img.image.url }}"/>
+    {% endfor %} -->
+
+{% endblock %}
