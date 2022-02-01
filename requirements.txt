@@ -148,7 +148,6 @@ protobuf==3.13.0
 psycopg2==2.9.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/obrat/pipwin/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
 PyAutoGUI==0.9.52
 pycodestyle==2.7.0
 pycparser==2.20
