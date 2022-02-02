@@ -183,7 +183,9 @@ pyttsx3==2.90
 PyTweening==1.0.3
 pytz==2020.1
 PyWavelets==1.1.1
-# pywin32-ctypes==0.2.0
+pywin32==228;platform_system == "Windows"
+pywinpty==0.5.7
+pywin32-ctypes==0.2.0
 PyYAML==5.3.1
 pyzmq==19.0.2
 qtconsole==4.7.7
